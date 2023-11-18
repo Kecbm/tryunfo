@@ -1,22 +1,22 @@
-# Habilidades
-Neste projeto, eu fui capaz de:
+# Skills
+In this project, I was able to:
 
-  * Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
+   * Read the state of a component and use it to change what we display in the browser
 
-  * Inicializar um componente, dando a ele um estado pré-definido
+   * Initialize a component, giving it a predefined state
 
-  * Atualizar o estado de um componente
+   * Update the state of a component
 
-  * Capturar eventos utilizando a sintaxe do React
+   * Capture events using React syntax
 
-  * Criar formulários utilizando sintaxe JSX com as tags: `input`, `textarea`, `select`, `form`, `checkbox`
+   * Create forms using JSX syntax with the tags: `input`, `textarea`, `select`, `form`, `checkbox`
 
-  * Transmitir informações de componentes filhos para componentes pais via callbacks
+   * Pass information from child components to parent components via callbacks
 
-## O que foi desenvolvido
+## What was developed
 
-Neste projeto foi desenvolvido um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+In this project, a game in the Super Trunfo style was developed! When using this application, a user must be able to:
 
-  * Criar um baralho, com o tema livre;
+   * Create a deck, with a free theme;
 
-  * Visualizar todas as cartas que foram adicionadas ao baralho;
+   * View all cards that have been added to the deck;
